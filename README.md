@@ -26,23 +26,23 @@ I'm a passionate Software Engineer and AI enthusiast, currently pursuing my MSc 
   <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white" alt="Python"/>
   <img src="https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React"/>
   <img src="https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" alt="Flutter"/>
-  <img src="https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=Node.js&logoColor=white" alt="Node.js"/>
+  <img src="https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js"/>
   <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript"/>
   <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript"/>
-  <img src="https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" alt="C++"/>
-  <img src="https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white" alt="Java"/>
-  <img src="https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=c-sharp&logoColor=white" alt="C#"/>
+  <img src="https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus&logoColor=white" alt="C++"/>
+  <img src="https://img.shields.io/badge/-Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java"/>
+  <img src="https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMjggMTI4Ij48cGF0aCBmaWxsPSIjZmZmIiBkPSJNMTE3LjUgMzMuNWwtNDgtMjhhMS43MyAxLjczIDAgMDAtMS41MyAwbC00OCAyOGExLjc4IDEuNzggMCAwMC0uOTEgMS41NXY1NmMwIC42NC4zNSAxLjIzLjkgMS41NGw0OCAyOGExLjczIDEuNzMgMCAwMDEuNTMgMGw0OC0yOGExLjc4IDEuNzggMCAwMC45MS0xLjU0di01NmMuMDEtLjY0LS4zNC0xLjIzLS45LTEuNTR6TTY3LjIzIDk5LjNsLTM0LjE0LTE5LjY5di0zNmwzNC4xMyAxOS43djM2eiIvPjxwYXRoIGZpbGw9IiNmZmYiIGQ9Ik04MS42NCA3NS42NmEyLjgyIDIuODIgMCAwMS0uNTQuMDVoLTEuMjd2My45NGgxLjI3YTIuNjggMi42OCAwIDAwLjU0LS4wNSAyLjMgMi4zIDAgMDAuNDctLjE1IDEuMTggMS4xOCAwIDAwLjM2LS4yOCAxLjA4IDEuMDggMCAwMC4yMy0uNDMgMi4wNyAyLjA3IDAgMDAuMDktLjY0IDIgMiAwIDAwLS4wOS0uNjMgMS4wOCAxLjA4IDAgMDAtLjIzLS40MyAxLjE4IDEuMTggMCAwMC0uMzYtLjI4IDIuMyAyLjMgMCAwMC0uNDctLjE1ek04OC4zNCA3NS42NmEyLjgyIDIuODIgMCAwMS0uNTQuMDVoLTEuMjZ2My45NGgxLjI3YTIuNjggMi42OCAwIDAwLjU0LS4wNSAyLjMgMi4zIDAgMDAuNDctLjE1IDEuMTggMS4xOCAwIDAwLjM2LS4yOCAxLjA4IDEuMDggMCAwMC4yMy0uNDMgMi4wNyAyLjA3IDAgMDAuMDktLjY0IDIgMiAwIDAwLS4wOS0uNjMgMS4wOCAxLjA4IDAgMDAtLjIzLS40MyAxLjE4IDEuMTggMCAwMC0uMzYtLjI4IDIuMyAyLjMgMCAwMC0uNDgtLjE1ek03Ny44NSA3NC4xOGgyLjE2djcuMzRoLTIuMTZ2LTcuMzR6bTE1LjMzIDBoLTIuMTZsLTMuNCA3LjM0aDIuMTZsLjU1LTEuMjhoMy41M2wuNTMgMS4yOGgyLjE2bC0zLjM3LTcuMzR6bS0xLjEgNC41bDEuMDUtMi41MiAxLjA1IDIuNTJoLTIuMXptLTcuMDgtMS4yMWwtMS41NS0zLjI5aC0yLjE2bDIuNyA1LjZWODEuNWgyLjE2di0xLjczbDIuNy01LjU5aC0yLjE2bC0xLjY5IDMuMjl6bS0xMi44NiAyLjE2YTIuMTkgMi4xOSAwIDAxLS43Mi40MyA0LjM4IDQuMzggMCAwMS0uOTEuMiAyLjE1IDIuMTUgMCAwMS0uODktLjA2Ljg1Ljg1IDAgMDEtLjQ1LS4yOS44LjggMCAwMS0uMTgtLjQ0IDEuODQgMS44NCAwIDAxLS4wMy0uNTNWNzUuNmgtMnY0LjA2YTMuNTcgMy41NyAwIDAwLjE5IDEuMjIgMi4zMiAyLjMyIDAgMDAuNTkuOTEgMi42NCAyLjY0IDAgMDAuOTUuNTcgNC4xMiA0LjEyIDAgMDAxLjI4LjIgNC42MSA0LjYxIDAgMDAxLjYtLjI2IDQuMDcgNC4wNyAwIDAwMS4zMy0uOGwuMDkuODhoMS44OHYtNi43OGgtMnYzLjMzeiIvPjwvc3ZnPg==&logoColor=white" alt="C#"/>
   <img src="https://img.shields.io/badge/-Dart-0175C2?style=flat-square&logo=dart&logoColor=white" alt="Dart"/>
-  <img src="https://img.shields.io/badge/-Azure-0089D6?style=flat-square&logo=microsoft-azure&logoColor=white" alt="Azure"/>
+  <img src="https://img.shields.io/badge/-Azure-0089D6?style=flat-square&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA0OCA0OCI+PHBhdGggZmlsbD0iI2ZmZiIgZD0iTTIyLjA3NSAwTDYuNzEgMy42MzRMMC4zODEgNDIuMDkxbDguNDMzIDUuNjkxbDMxLjI3LTUuNjczTDQ4IDMwLjAyMkwyMi4wNzUgMHpNNi40NzkgMzkuODVsMi41ODQtMjUuNTE0bDE5Ljk1MiAyNC4yOTVMNi40NzkgMzkuODV6Ii8+PC9zdmc+" alt="Azure"/>
   <img src="https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="SQL"/>
   <img src="https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB"/>
-  <img src="https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" alt="Tailwind CSS"/>
-  <img src="https://img.shields.io/badge/-ASP.NET_Core-512BD4?style=flat-square&logo=.net&logoColor=white" alt="ASP.NET Core"/>
+  <img src="https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind CSS"/>
+  <img src="https://img.shields.io/badge/-.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white" alt="ASP.NET Core"/>
   <img src="https://img.shields.io/badge/-React_Native-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React Native"/>
-  <img src="https://img.shields.io/badge/-Google_Cloud-4285F4?style=flat-square&logo=google-cloud&logoColor=white" alt="Google Cloud"/>
+  <img src="https://img.shields.io/badge/-Google_Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white" alt="Google Cloud"/>
   <img src="https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" alt="Firebase"/>
   <img src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git"/>
-  <img src="https://img.shields.io/badge/-Unix-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Unix"/>
+  <img src="https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux"/>
 </p>
 
 ## 🔥 Featured Projects

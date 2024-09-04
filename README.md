@@ -109,6 +109,20 @@ I'm a passionate Software Engineer and AI enthusiast, currently pursuing my MSc 
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=AedenThomas&theme=tokyonight" alt="Aeden's GitHub streak" />
 </p>
 
+## 📈 Contributions
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AedenThomas&theme=react-dark" alt="Contribution Graph" />
+</p>
+
+## 🔝 Top Languages
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AedenThomas&layout=compact&theme=tokyonight" alt="Top Languages" />
+</p>
+
+
+
 ## 🌱 Currently Learning
 
 - Advanced AI/ML applications in software development

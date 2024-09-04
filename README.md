@@ -1,7 +1,3 @@
-<div align="center">
-  <img src="https://aeden.me/path-to-header-image.png" alt="Aeden Thomas - Software Engineer & AI Enthusiast" width="100%">
-</div>
-
 # Hello, I'm Aeden Thomas 👋
 
 <p align="center">

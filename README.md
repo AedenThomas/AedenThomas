@@ -99,15 +99,53 @@ I'm a passionate Software Engineer and AI enthusiast, currently pursuing my MSc 
 - **Cookify**: Flutter app for recipe suggestions based on available ingredients
 - **CryptoVault**: Blockchain-based secure text storage app
 
-## 📊 GitHub Stats
+## 📊 GitHub Stats (Including Private Contributions)
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AedenThomas&show_icons=true&theme=tokyonight" alt="Aeden's GitHub stats" />
-</p>
+<div align="center">
+  <table>
+    <tr>
+      <td colspan="2" align="center">
+        <h3>AedenThomas' GitHub Stats</h3>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <ul>
+          <li><strong>Total Stars Earned:</strong> 0</li>
+          <li><strong>Total Commits (2024):</strong> 43+</li>
+          <li><strong>Total PRs:</strong> 3+</li>
+          <li><strong>Total Issues:</strong> 10+</li>
+          <li><strong>Contributed to (last year):</strong> 1+</li>
+        </ul>
+      </td>
+      <td align="center" valign="middle">
+        <h1>C</h1>
+      </td>
+    </tr>
+  </table>
+</div>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AedenThomas&theme=tokyonight" alt="Aeden's GitHub streak" />
-</p>
+<div align="center">
+  <table>
+    <tr>
+      <td align="center">
+        <h3>410+</h3>
+        <p>Total Contributions</p>
+        <p>Apr 8, 2016 - Present</p>
+      </td>
+      <td align="center">
+        <h3>0</h3>
+        <p>Current Streak</p>
+        <p>Sep 6</p>
+      </td>
+      <td align="center">
+        <h3>12</h3>
+        <p>Longest Streak</p>
+        <p>Jun 11 - Jun 22</p>
+      </td>
+    </tr>
+  </table>
+</div>
 
 ## 📈 Contributions
 

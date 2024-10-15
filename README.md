@@ -101,9 +101,6 @@ I'm a passionate Software Engineer and AI enthusiast, currently pursuing my MSc 
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AedenThomas&show_icons=true&theme=tokyonight" alt="Aeden's GitHub stats" />
-</p>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=AedenThomas&theme=tokyonight" alt="Aeden's GitHub streak" />

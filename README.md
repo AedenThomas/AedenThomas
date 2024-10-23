@@ -14,7 +14,7 @@ I'm a passionate Software Engineer and AI enthusiast, currently pursuing my MSc 
 ## 🎓 Education
 
 - **University of Bath** (United Kingdom) - Master of Science in Computer Science (2024–2025)
-- **B.M.S. College of Engineering** (India) - Bachelor of Engineering in Information Science and Engineering (2020–2024)
+- **B.M.S. College of Engineering** (Banglaore) - Bachelor of Engineering in Information Science and Engineering (2020–2024)
 
 ## 💻 Skills
 

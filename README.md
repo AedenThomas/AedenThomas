@@ -48,19 +48,20 @@ I'm a passionate Software Engineer and AI enthusiast, currently pursuing my MSc 
     <td width="50%">
       <h3 align="center">Bill Split</h3>
       <div align="center">
-        <a href="https://apps.apple.com/us/app/google-family-link/id1150085200" target="_blank"><img src="https://aeden.me/BillSplit.webp" width="100" alt="Bill Split App"/></a>
+        <a href="https://apps.apple.com/gb/app/billify-smart-bill-split/id6747454007" target="_blank"><img src="https://aeden.me/BillSplit.webp" width="100" alt="Bill Split App"/></a>
         <p><strong>Flutter, Azure Functions, Dart</strong></p>
         <p>Cross-platform bill splitting app using Flutter, Azure Functions, and Azure Form Recognizer for accurate expense distribution and receipt scanning.</p>
       </div>
     </td>
     <td width="50%">
-      <h3 align="center">InsightX</h3>
+      <h3 align="center">AIResume</h3>
       <div align="center">
-        <img src="https://aeden.me/InsightX.webp" width="100" alt="InsightX"/>
-        <p><strong>React, Node.js, LLM API</strong></p>
-        <p>Video analysis web app using Large Language Models (LLMs) to extract insights from video content like lectures, interviews, and presentations.</p>
+        <a href="https://chromewebstore.google.com/detail/ai-resume-tailor/gckmlapghemhhedhmcigalmiilifkbpb" target="_blank"><<img src="https://aeden.me/AIResume.webp" width="100" alt="AIResume"/></a>
+        <p><strong>Chrome Extension, JavaScript, C#, .NET API</strong></p>
+        <p>Chrome extension that uses AI to tailor resumes and generate cover letters with a single click, powered by a C# and .NET API backend.</p>
       </div>
     </td>
+    
   </tr>
   <tr>
     <td width="50%">
@@ -72,11 +73,11 @@ I'm a passionate Software Engineer and AI enthusiast, currently pursuing my MSc 
       </div>
     </td>
     <td width="50%">
-      <h3 align="center">AIResume</h3>
+      <h3 align="center">InsightX</h3>
       <div align="center">
-        <img src="https://aeden.me/AIResume.webp" width="100" alt="AIResume"/>
-        <p><strong>Chrome Extension, JavaScript, C#, .NET API</strong></p>
-        <p>Chrome extension that uses AI to tailor resumes and generate cover letters with a single click, powered by a C# and .NET API backend.</p>
+        <img src="https://aeden.me/InsightX.webp" width="100" alt="InsightX"/>
+        <p><strong>React, Node.js, LLM API</strong></p>
+        <p>Video analysis web app using Large Language Models (LLMs) to extract insights from video content like lectures, interviews, and presentations.</p>
       </div>
     </td>
   </tr>
